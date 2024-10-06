@@ -29,7 +29,7 @@ const Hero = () => {
                 <Link href='/contact'>
                 <Button className='gap-x-2'>Contact Me<Send size={18}/></Button>
                 </Link>
-                <Link href='https://drive.google.com/file/d/1uUMTrwAjdGUkgmec2L30MQtnl_Ud9yGG/view?usp=sharing'>
+                <Link href=''>
                 <Button 
                 variant='secondary' 
                 className='gap-x-2'>Download CV<Download size={18}/></Button>
